@@ -167,9 +167,11 @@ This project was developed as part of a **Discrete Mathematics group activity** 
 
 ## 👥 Group Members
 
-* Member 1 — Mahi Pandey | 24BCE10321
-* Member 2 — Janvi Kalra | 24BCE11171
-
+* Member 1 - Mahi Pandey | 24BCE10321
+* Member 2 - Janvi Kalra | 24BCE11171
+* Member 3 - Rohit Ravindra Jadhav | 24BHI10102
+* Member 4 - Vinayak Chaturvedi | 23BAI11151
+* Member 5 - Vandit agrawal | 23BCG10035 
 
 ## 📄 License
 
