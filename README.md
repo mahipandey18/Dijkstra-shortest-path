@@ -167,10 +167,9 @@ This project was developed as part of a **Discrete Mathematics group activity** 
 
 ## 👥 Group Members
 
-* Member 1 — Name
-* Member 2 — Name
-* Member 3 — Name
-* Member 4 — Name
+* Member 1 — Mahi Pandey | 24BCE10321
+* Member 2 — Janvi Kalra | 24BCE11171
+
 
 ## 📄 License
 
